@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Poster_5" size="0.210000 0.140056" />
+    <ImageTarget name="Poster_11" size="0.210000 0.140056" />
+    <ImageTarget name="Poster_10" size="0.210000 0.140056" />
+    <ImageTarget name="Poster_9" size="0.210000 0.140056" />
+    <ImageTarget name="Poster_8" size="0.210000 0.140056" />
+    <ImageTarget name="Poster_7" size="0.210000 0.140056" />
+    <ImageTarget name="Poster_6" size="0.210000 0.140056" />
+    <ImageTarget name="Poster_4" size="0.210000 0.140056" />
+    <ImageTarget name="-Poster3" size="0.210000 0.140056" />
+    <ImageTarget name="Poster_2" size="0.210000 0.140056" />
+    <ImageTarget name="Poster_1" size="0.210000 0.140056" />
+  </Tracking>
+</QCARConfig>
